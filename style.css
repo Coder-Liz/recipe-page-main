@@ -58,7 +58,7 @@ img {
 body {
   font-family: 'Outfit', sans-serif;
   color: var(--stone-600);
-  background: var(--rose-50);
+  background: var(--stone-150);
   padding-block: 80px;
   height: auto;
 }
@@ -132,7 +132,7 @@ ul {
   margin-left: -1em;
 }
 
-h3 {
+.small {
   font-family: 'Outfit', sans-serif;
   font-size: 1.125rem;
   font-weight: 700;
